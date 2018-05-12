@@ -1,0 +1,37 @@
+_repo: Neotropical-Hylid-Frogs-Genus-Smilisca_37823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37823-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Trueb, Linda
+    birthdate: 1942
+    gutenberg_agent_id: '36893'
+    url: http://www.gutenberg.org/2009/agents/36893
+  - agent_name: Duellman, William Edward
+    alias: Duellman, William E. (William Edward)
+    birthdate: 1930
+    gutenberg_agent_id: '35075'
+    url: http://www.gutenberg.org/2009/agents/35075
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2011-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37823'
+  lccn: '66065010'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smilisca'
+- !lcc 'QL'
+- !lcsh 'Amphibians -- Central America'
+- !lcsh 'Frogs'
+- !lcc 'QH'
+title: Neotropical Hylid Frogs, Genus Smilisca
+url: http://www.gutenberg.org/ebooks/37823
